@@ -24,7 +24,6 @@ type WithdrawParams struct {
 	SourceChainID      int64
 	DestinationChainID int64
 	DestinationAddress common.Address
-	TokenAddress       common.Address
 	Amount             *big.Int
 }
 
