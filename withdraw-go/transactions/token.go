@@ -9,7 +9,7 @@ import (
 )
 
 const (
-	TokenInfoURL = "https://api.goose.farm/v5/common/token/info?token_symbol="
+	TokenInfoURL = "https://unit-api.cyclenetwork.io/v5/common/token/info?token_symbol="
 )
 
 type TokenResponse struct {
