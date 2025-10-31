@@ -1,0 +1,9 @@
+# ide
+.vscode
+.idea
+
+# output
+*.exe
+
+.DS_Store
+
